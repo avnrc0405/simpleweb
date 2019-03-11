@@ -12,3 +12,5 @@ COPY ./ ./
 
 #Default command
 CMD ["npm", "start"]
+EXPOSE 8080
+EXPOSE 80
